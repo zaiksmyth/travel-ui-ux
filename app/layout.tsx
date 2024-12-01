@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* svg favicon  */}
+        {/*  favicon  */}
         <link rel="icon" href="/icon/favicon.svg" type="image/svg+xml" />
 
       </head>
