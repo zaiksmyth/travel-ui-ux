@@ -17,6 +17,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* svg favicon  */}
+        <link rel="icon" href="/app/icon/favicon.svg" type="image/svg+xml" />
+
+      </head>
       <body>
         <Navbar />
         <main className="relative overflow-hidden">
